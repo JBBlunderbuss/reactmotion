@@ -1,0 +1,11 @@
+li {
+}
+
+.list__container {
+  /* position: absolute;
+  bottom: 0; */
+  overflow: hidden;
+  background: #eee;
+  width: 100%;
+  min-height: 200px;
+}
